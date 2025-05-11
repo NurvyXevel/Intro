@@ -21,7 +21,7 @@ if __name__ == "__main__":
 
 I'm Nikko Satria Marganis, Lua Developer Not a Content Creator at [Youtube](https://youtu.be/dQw4w9WgXcQ).
 
-![](https://github.com/Megumi.gif)
+![Image](https://github.com/user-attachments/assets/1008dd8a-4ccc-491a-b663-78c66e3078d4)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&pause=1000&color=580095&width=435&lines=Hello%2C+I'm+Nikko+Satria+Marganis!;LuaU+Developer;17+y.o+Developer;Nice+to+meet+you!)](https://git.io/typing-svg)
 
