@@ -21,8 +21,7 @@ if __name__ == "__main__":
 
 I'm Nikko Satria Marganis, Lua Developer Not a Content Creator at [Youtube](https://youtu.be/dQw4w9WgXcQ).
 
-![e1e90a27438a96bc7579956bf43dee03](https://github.com/user-attachments/assets/f4075b24-77f5-48d5-97c7-04695e7d737e)
-
+![Discord Presence](https://discord.c99.nl/widget/theme-3/1282289262053818410.png)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&pause=1000&color=580095&width=435&lines=Hello%2C+I'm+Nikko+Satria+Marganis!;LuaU+Developer;17+y.o+Developer;Nice+to+meet+you!)](https://git.io/typing-svg)
 
@@ -32,7 +31,7 @@ I'm Nikko Satria Marganis, Lua Developer Not a Content Creator at [Youtube](http
 - 🤔 Mie Ayam Enthusiast
 - 💼 Code Alchemist, Lua, LuaU, .NET, UI/UX Designer
 - ⚡ Competitive Player
-- 🌟 Creator of Hil Hub
+- 🌟 JKT48 Lily
 
 
 
